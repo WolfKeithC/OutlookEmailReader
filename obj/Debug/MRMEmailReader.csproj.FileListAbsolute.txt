@@ -1,0 +1,16 @@
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\bin\Debug\MRMEmailReader.exe.config
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\obj\Debug\MRMEmailReader.csprojResolveAssemblyReference.cache
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\obj\Debug\MRMEmailReader.MainForm.resources
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\obj\Debug\MRMEmailReader.Properties.Resources.resources
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\obj\Debug\MRMEmailReader.csproj.GenerateResource.Cache
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\bin\Debug\MRMEmailReader.exe
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\bin\Debug\MRMEmailReader.pdb
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\bin\Debug\Microsoft.Exchange.WebServices.dll
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\bin\Debug\Microsoft.Exchange.WebServices.pdb
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\bin\Debug\Microsoft.Exchange.WebServices.xml
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\obj\Debug\MRMEmailReader.exe
+c:\users\wolfk036\documents\visual studio 2013\Projects\MRMEmailReader\obj\Debug\MRMEmailReader.pdb
+C:\Users\WOLFK036\Documents\Visual Studio 2013\Projects\MRMEmailReader\bin\Debug\Microsoft.IdentityModel.Extensions.dll

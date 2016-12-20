@@ -106,7 +106,7 @@ namespace MRMEmailReader
             Microsoft.Office.Interop.Outlook.MAPIFolder myInbox = mapiNameSpace.GetFolderFromID(selectedItem.Key);
             //cmbOutlookFolders.SelectedItem.ToString());// GetDefaultFolder(Microsoft.Office.Interop.Outlook.O.GetDefaultFolder(Microsoft.Office.Interop.Outlook.OlDefaultFolders.olFolderInbox);
             int total = myInbox.Items.Count, count = 0, xytCount = 0, unread = 0;
-            pbMessages.Maximum = total;
+            //pbMessages.Maximum = total;
             if (total > 0)
             {
                 foreach (Microsoft.Office.Interop.Outlook.MailItem item in myInbox.Items)
